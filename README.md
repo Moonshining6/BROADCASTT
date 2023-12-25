@@ -7,7 +7,7 @@
 
 
 
-[![Support](https://img.shields.io/badge/Support-Telegram-blue)](https://t.me/BWANDARLOK)
+[![Support](https://img.shields.io/badge/Support-Telegram-blue)](https://t.me/MILKY_WAY_45)
 
 ## About
 
@@ -22,7 +22,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/BROADCAST)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Moonshining6/BROADCAST)
   
 You can deploy this bot on Heroku using the Heroku Deploy button above. Make sure to set the required environment variables.
 
